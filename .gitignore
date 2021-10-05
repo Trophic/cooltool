@@ -1,0 +1,13 @@
+# exclude
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.cache
+.config
+.gitconfig
+.ipynb_checkpoints
+.jupyter-server-log.txt
+.jupyter
+.local/share
+.profile

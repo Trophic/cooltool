@@ -1,7 +1,7 @@
-# Hey john!
-# I generated a dendogram!
+**Hey john!
+I generated a dendogram!
+Here's how:**
 
-----
 **First** open our ***jupyter notebook*** at https://mybinder.org/
 
     The github URL is https://github.com/Trophic/cooltool
@@ -23,16 +23,5 @@
 
     python -m pip install -U matplotlib
 
-
-**Terminal** should say:
-
-    ?????
-
-**Finally**,  type
-
-    ?????
-
-**Then**
-
-    ?????
+**Finally** open AgglomerativeClustering.ipynb and click  ▶️
 

@@ -11,3 +11,4 @@
 .jupyter
 .local/share
 .profile
+.python

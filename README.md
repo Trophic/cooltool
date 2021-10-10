@@ -2,9 +2,7 @@
 I generated a dendogram!
 Here's how:**
 
-**First** open our ***jupyter notebook*** at https://mybinder.org/
-
-    The github URL is https://github.com/Trophic/cooltool
+**First** open our ***jupyter notebook*** at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Trophic/cooltool/HEAD)
 
 
 **Second** launch a new terminal in binder and install ***sklearn*** by typing

@@ -1,6 +1,4 @@
-**Hey john!
-I generated a dendogram!
-Here's how:**
+**Heyo!**
 
 **First** open our ***jupyter notebook*** at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Trophic/cooltool/HEAD)
 
@@ -22,4 +20,7 @@ Here's how:**
     python -m pip install -U matplotlib
 
 **Finally** open AgglomerativeClustering.ipynb and click  ▶️
+
+**Currently following this [![tutorial]](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)**
+
 
